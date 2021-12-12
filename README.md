@@ -1,2 +1,2 @@
 # study-smart.github.io
-This is [age for Study Smart Classes
+This is Page for Study Smart Classes
